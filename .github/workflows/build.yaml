@@ -28,4 +28,4 @@ jobs:
         run: npm run build
 
       - name: Verify build availability
-        run: ls dist 
+        run: ls dist
