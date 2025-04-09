@@ -7,7 +7,7 @@ on:
   pull_request:
     branches:
       - main
-  workflow_dispatch: # без сложной логики можно оставить пустым
+  # workflow_dispatch: # без сложной логики можно оставить пустым
 
 jobs:
   build-and-deploy:
