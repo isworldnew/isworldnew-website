@@ -1,4 +1,5 @@
 import './InfoPage.css';
+import React from 'react';
 import Header from '../../CommonComponents/Header/Header';
 import Footer from '../../CommonComponents/Footer/Footer'
 
