@@ -15,7 +15,7 @@ export default function HelloPage() {
             <div className="hello-page">
                 <h2 className="hello-title">Привет!</h2>
                 <button className="hello-button" onClick={handleClick}>
-                    нажми меня
+                    Обновлённая кнопка!
                 </button>
                 <img src="" alt="" />
             </div>
